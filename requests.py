@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+fastapi
+uvicorn
+python-multipart
+face_recognition
+numpy
+opencv-python
